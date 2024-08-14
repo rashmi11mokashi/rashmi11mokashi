@@ -1,14 +1,10 @@
-I'm Rashmi, a passionate Software Engineer with a keen interest in Web development and ML/AI. Here, you'll find a collection of projects, experiments, and contributions that reflect my journey through the realms of software development, data science, and beyond.
+Experienced Backend Design Developer specializing in machine learning model building for Motorcycle Electronics Systems. 
 
-My goal is to leverage technology to solve real-world problems, innovate, and contribute to open-source communities. Whether it's crafting elegant code, diving into data analysis, or exploring the latest advancements in artificial intelligence, I'm always eager to push the boundaries of what's possible.
+In my two years at Yamaha, I developed machine learning models using Python and SQL, focusing on neural networks, reinforcement learning, and recommendation systems. I managed the entire data lifecycle, from collection and cleaning to advanced imputation techniques and creating data flow diagrams. 
 
-Feel free to explore my repositories, engage in discussions, or collaborate on exciting projects. Let's connect, learn, and create together!
+I built neural networks from scratch, fine-tuned models, and applied feature engineering techniques like one-hot encoding and text vectorization. I created Quality Function Deployment charts to align user needs with system functions and conducted rigorous model testing, including hyperparameter tuning and edge case analysis. Currently, I am working on an incremental learning project with a focus on knowledge distillation and gradient adjustments in neural network layers.
 
-Happy coding! 🚀
+ In the Design Planning Division, I specialize in Quality Function Deployment, Systems Design, and Architecture. Committed to staying ahead, I am currently preparing for AWS certification to venture into Cloud computing, aligning with the evolving tech landscape. 
+Let's connect and drive innovation together! 
 
-<!--- 📫 How to reach me ... ---!>
-
-<!---
-rashmi11mokashi/rashmi11mokashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ #BackendDesign #MotorcycleElectronics #PythonDevelopment #Machinelearning #AI #SystemsDesign #AWS
